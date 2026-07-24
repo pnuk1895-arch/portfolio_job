@@ -590,6 +590,7 @@
             font-weight: 600;
             margin-bottom: 6px;
             transition: color 0.3s;
+            text-decoration: underline;
         }
         .project-card:hover h3 {
             color: var(--primary);
